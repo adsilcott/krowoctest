@@ -46,9 +46,9 @@ WHATSNEW*          text
 .htaccess          text eol=lf
 
 # Previous "binary"
-*.unity            text eol=lf
-*.asset            text eol=lf
-*.prefab           text eol=lf
+*.unity            binary
+*.asset            binary
+*.prefab           binary
 
 # Apply Windows/DOS-style CR-LF line-endings on checkout of these files...
 *.bat              text eol=crlf
