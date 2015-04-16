@@ -1,0 +1,3 @@
+[submodule "Assets/External/GitMerge"]
+	path = Assets/External/GitMerge
+	url = https://github.com/FlaShG/GitMerge-for-Unity
